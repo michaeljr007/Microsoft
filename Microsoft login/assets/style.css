@@ -1,0 +1,33 @@
+.login {
+  background-color: #0067b8;
+  width: 120px;
+  color: white;
+  border-radius: 0%;
+  padding: 4px 30px 4px 30px;
+}
+
+.login:hover {
+  background-color: #005da6;
+  color: white;
+}
+
+.showcase {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  margin-left: 33%;
+  background-color: white;
+  width: 500px;
+  padding: 10rem;
+  margin-top: 5rem;
+}
+
+.container {
+  width: 600px;
+}
+
+.foot {
+  margin-top: 12rem;
+  font-size: 1rem;
+}
